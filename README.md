@@ -1,0 +1,1 @@
+# blogger_django_based_web
