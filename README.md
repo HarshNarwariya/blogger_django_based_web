@@ -42,7 +42,8 @@ Fields required to submit form:
 
 + Here we can see the post details including content, tags, date paoted, likes, comments and views.
 + Comments to the post can also be viewed in the last of the post.
-+ Users can also comment on the post.
++ `Users can also comment on the post.`
++ `If the current user is the owner of the post they can also update and delete the post`
 
 ### All post of the user can be viewed in side Blog Entries
 
