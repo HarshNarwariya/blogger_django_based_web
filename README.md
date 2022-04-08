@@ -13,4 +13,4 @@ A blog is a type of website where the content is presented in reverse chronologi
 
 ### Home Page
 
-![My animated logo](Images\home 1.png)
+![home page](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/home%201.png)
