@@ -1,1 +1,3 @@
-# blogger_django_based_web
+# Blogger
+
+`A django based blogging website`
