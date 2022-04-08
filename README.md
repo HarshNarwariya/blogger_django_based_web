@@ -13,4 +13,4 @@ A blog is a type of website where the content is presented in reverse chronologi
 
 ### Home Page
 
-![My animated logo](assets/my-logo.svg)
+![My animated logo](images/home 1.png)
