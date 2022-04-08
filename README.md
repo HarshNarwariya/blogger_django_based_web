@@ -21,3 +21,13 @@ Above is the home page which shows lasted posts, recent tags and most viewed pos
 
 ![post bLog](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/blog%20post%201.png)
 ![post blog](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/blog%20post%202.png)
+
+Here you can post a blog.
+
+Fields required to submit form:
++ title 
++ content
++ describe
++ tags
++ slug
++ thumbnail
