@@ -16,3 +16,8 @@ A blog is a type of website where the content is presented in reverse chronologi
 ![home page](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/home%201.png)
 
 Above is the home page which shows lasted posts, recent tags and most viewed posts. We can actually see the details associated with each post over home page.
+
+### Post Blog
+
+![post bLog](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/blog%20post%201.png)
+![post blog](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/blog%20post%202.png)
