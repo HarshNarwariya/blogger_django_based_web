@@ -43,7 +43,7 @@ Fields required to submit form:
 + Here we can see the post details including content, tags, date paoted, likes, comments and views.
 + Comments to the post can also be viewed in the last of the post.
 + `Users can also comment on the post.`
-+ `If the current user is the owner of the post they can also update and delete the post`
++ `If the current user is the author of the post then author can also update and delete the post`
 
 ### All post of the user can be viewed in side Blog Entries
 
@@ -59,9 +59,27 @@ Users can also search post.
 
 ### Tags
 ![search](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/tags.png)
-Tags can also be listed and can be used to search post via tags.
++ Recent tags can be viewed in tag clouds.
++ Tags can also be listed and can be used to search post via tags.
 
 ### Search Post by tag
 ![search](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/tag%20applied.png)
-Post searched via tags
+Post searched via tag, in the above example tag used is SPACE
 
+
+## Most importantly Authntication System
+
+### SignIn / Login page
+![login](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/login%20page.png)
+
+Form Requires Username and Password to authenticate. In case if user forget password, it can be easy reset via email.
+
+##### Forget password
+![forgetpassword](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/forget%20password.png)
+
+### SignUp / Register page
+![register](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/register%20page.png)
+
+### Logout view
+![logout](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/logout%20page.png)
+This page ensures that user have been logged out successfully.
