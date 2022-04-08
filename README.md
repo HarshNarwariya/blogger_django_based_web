@@ -33,6 +33,17 @@ Fields required to submit form:
 + thumbnail
 
 
+### Post View
+
+![post](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/my%20blog%201.png)
+![post](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/my%20blog%202.png)
+![post](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/my%20blog%203.png)
+![post](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/my%20blog%204.png)
+
 ### All post of the user can be viewed in side Blog Entries
 
 ![blog entries](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/blog%20entries%201.png)
+
+like for the above example anushka have 3 posts and two of them are BSE and Burj Khalifa.
+
+
