@@ -31,3 +31,8 @@ Fields required to submit form:
 + tags
 + slug
 + thumbnail
+
+
+### All post of the user can be viewed in side Blog Entries
+
+![blog entries](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/blog%20entries%201.png)
