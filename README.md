@@ -72,7 +72,7 @@ Post searched via tag, in the above example tag used is SPACE
 ### SignIn / Login page
 ![login](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/login%20page.png)
 
-Form Requires Username and Password to authenticate. In case if user forget password, it can be easy reset via email.
+Form Requires Username and Password to authenticate. In case if user forget password, it can be easily reset via email.
 
 ##### Forget password
 ![forgetpassword](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/forget%20password.png)
