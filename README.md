@@ -91,4 +91,5 @@ pip install Django
 pip install django-crispy-forms
 pip install django-ckeditor
 pip install django-taggit
+pip install Pillow
 ```
