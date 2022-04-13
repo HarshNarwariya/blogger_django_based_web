@@ -83,3 +83,12 @@ Form Requires Username and Password to authenticate. In case if user forget pass
 ### Logout view
 ![logout](https://github.com/HarshNarwariya/blogger_django_based_web/blob/main/Images/logout%20page.png)
 This page ensures that user have been logged out successfully.
+
+
+### Requirements
+```python
+pip install Django
+pip install django-crispy-forms
+pip install django-ckeditor
+pip install django-taggit
+```
