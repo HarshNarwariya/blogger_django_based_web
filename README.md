@@ -6,7 +6,7 @@ A blog is a type of website where the content is presented in reverse chronologi
 
 ## Preview
 
-<a href="https://heroku.blogger.com/">Go to page</a>
+<a href="http://anushka.pythonanywhere.com/">Go to page</a>
 
 **For any reason if the url not working watch the preview below**
 
